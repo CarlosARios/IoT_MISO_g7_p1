@@ -1,2 +1,5 @@
-# IoT_MISO_g7_p1
-Grupo 7 - Pareja 1
+# IoT_MISO_Grupo 7 - Pareja 1
+## Integrantes
+* Michael Dylan Blanquicett
+* Carlos AlfredoRios
+
